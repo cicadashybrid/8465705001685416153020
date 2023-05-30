@@ -1,0 +1,242 @@
+{
+  "project_info": {
+    "project_number": "42522170536",
+    "project_id": "paper-doll-6bb60",
+    "storage_bucket": "paper-doll-6bb60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:c0c45bc9735a08553f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocabocapaper.tocacoffeeshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:14593b2bf61050d03f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocabocacutekuromi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:70d67eb28cdc94293f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocabocagudetamaversion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:f38d77d09d1bdf723f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocahotspringpaperdoll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:ebe1a108b7e7e1ef3f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocalifehalloweendressup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:2b6a55b61c9c16993f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocalifepapercollections"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:109fc90be3a3ee133f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocalifepaperdolldailylife"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42522170536:android:d6acdd72216f8a5b3f5e9d",
+        "android_client_info": {
+          "package_name": "com.tocalifepaper.tocavampirehouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2sfUWzLxLqNbivDIQGpTBG4aEdE9i_us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42522170536-t62qj4oodg4ura1fce65h1ej5nndrp15.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
